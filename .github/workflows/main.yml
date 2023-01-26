@@ -23,7 +23,6 @@ jobs:
       matrix:
         device:
           # sm8150
-          - mh2lm
           - enchilada
 
     # Steps represent a sequence of tasks that will be executed as part of the job
