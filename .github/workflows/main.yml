@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with Actions
+-# This is a basic workflow to help you get started with Actions
 
 name: msm-Build
 
@@ -24,20 +24,7 @@ jobs:
         device:
           # sm8150
           - mh2lm
-          - betalm
-          - nabu
-          - vayu
-          - cepheus
-          - hotdog
-          - guacamole
-          # sdm845
-          - polaris
-          - perseus
-          # sm7325
-          - mona
-          - lisa
-          # msm8998
-          - cheeseburger
+          - enchilada
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
